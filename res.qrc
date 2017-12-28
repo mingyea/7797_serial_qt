@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="res/lan/cn.qm">res/lan/cn.qm</file>
+        <file alias="res/lan/ct.qm">res/lan/ct.qm</file>
+        <file alias="res/lan/en.qm">res/lan/en.qm</file>
+    </qresource>
+</RCC>

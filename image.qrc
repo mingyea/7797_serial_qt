@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="led_on">res/image/LEDPURPLEON.bmp</file>
+        <file alias="led_off">res/image/LEDPURPLEOFF.bmp</file>
+    </qresource>
+</RCC>
